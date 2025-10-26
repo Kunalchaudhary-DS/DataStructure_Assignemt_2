@@ -80,12 +80,8 @@ Book 'Python Programming' issued successfully!
 ---
 
 ## Learning Outcomes
-Understand and implement linked lists for dynamic data storage.
-
-Learn to use stack data structures for undo/redo operations.
-
-Apply OOP concepts such as classes, objects, and methods.
-
-Build an interactive console-based application with menu-driven input.
-
-Manage real-world scenarios like book issuing, returning, and transaction history.
+- Understand and implement linked lists for dynamic data storage.
+- Learn to use stack data structures for undo/redo operations.
+- Apply OOP concepts such as classes, objects, and methods.
+- Build an interactive console-based application with menu-driven input.
+- Manage real-world scenarios like book issuing, returning, and transaction history.
