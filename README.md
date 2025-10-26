@@ -71,11 +71,15 @@ Book 'Python Programming' issued successfully!
 ---
 
 ## Technologies Used
--Python 3
--Object-Oriented Programming (OOP)
--Linked List (for dynamic book storage)
--Stack (for transaction history)
--Console-based user interface
+Python 3
+
+Object-Oriented Programming (OOP)
+
+Linked List (for dynamic book storage)
+
+Stack (for transaction history)
+
+Console-based user interface
 
 ---
 
